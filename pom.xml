@@ -3,13 +3,14 @@
     <parent>
         <groupId>com.scorpio4</groupId>
         <artifactId>scorpio4</artifactId>
-        <version>0.11-SNAPSHOT</version>
+        <version>0.13-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>scorpio4devops</artifactId>
     <packaging>jar</packaging>
 
+    <name>Scorpio4 DevOps</name>
     <url>http://www.scorpio4.com</url>
 
     <organization>

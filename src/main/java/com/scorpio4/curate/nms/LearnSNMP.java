@@ -2,7 +2,7 @@ package com.scorpio4.curate.nms;
 
 /* ****************************************************************************************
 
-	Fact:Core (c) Lee Curtis 2009-2012. All rights reserved.
+	Scorpio4 (c) Lee Curtis 2009-2012. All rights reserved.
 	Architect:	Lee Curtis
 	Developer:	Troven Software
 
